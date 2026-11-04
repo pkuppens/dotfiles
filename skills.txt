@@ -1,0 +1,13 @@
+# Personal skills from pkuppens/skills, linked into ~/.claude/skills.
+# One skill directory name per line. Comments and blank lines are ignored.
+
+branch-cleanup
+brutally-honest-code-review
+dependabot
+finish-work
+improve-skill
+
+# Referenced by brutally-honest-code-review
+antipattern-detector
+assumption-challenger
+validation-report-generator
